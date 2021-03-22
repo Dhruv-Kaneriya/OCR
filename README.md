@@ -1,0 +1,2 @@
+# OCR
+ Use desktop brower.
