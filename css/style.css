@@ -297,7 +297,7 @@ li {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
 }
 
-.carousel-indicator li {
+.carousel-indicators li {
   background-color: black !important;
 }
 
@@ -332,12 +332,12 @@ li {
 }
 
 .form-button button {
-  border: 1px solid #075f81;
+  border: 1px solid #16c9f6;
   border-radius: 100px;
   margin: 0 5px;
   padding: 12px 35px;
   outline: none;
-  color: #075f81;
+  color: #16c9f6;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.4;
